@@ -1,6 +1,6 @@
 # My-Intro
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5603AQGC-ZWqu_QVFg/profile-displayphoto-shrink_800_800/0/1691076943608?e=1701302400&v=beta&t=baa3epFV4JtS8EQwRsV3BVR4TG6eS4ZGzhC04fSzW-0" align="center" style="width: 100" />
+<img src="https://media.licdn.com/dms/image/D5603AQGC-ZWqu_QVFg/profile-displayphoto-shrink_800_800/0/1691076943608?e=1701302400&v=beta&t=baa3epFV4JtS8EQwRsV3BVR4TG6eS4ZGzhC04fSzW-0" align="center" style="width: 50" />
 </div>  
   
 
