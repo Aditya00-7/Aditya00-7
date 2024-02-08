@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on UI/UX  
   
 
-- 🌱 I’m currently learning Java and UI/UX  
+- 🌱 I’m currently learning Java  
   
 
 - ❓ Ask me about anything related to UI/UX and related technologies.  
