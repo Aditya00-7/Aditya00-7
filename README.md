@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to UI/UX and related technologies.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: "Debugging: From literal bugs to virtual ones, it's the timeless quest to squash every error in code."
   
 
 <br/>  
