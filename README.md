@@ -3,10 +3,11 @@
 ### <div align="center">I'm Aditya Raj, a UI/UX Designer, and Java Developer 🚀</div>  
   
 
-- 🔭 I’m currently working on UI/UX  
+- 🔭 I’m currently working on UI/UX
+  
   
 
-- 🌱 I’m currently learning Java  
+- 🌱 I’m currently learning SPRING BOOT  
   
 
 - ❓ Ask me about anything related to UI/UX and related technologies.  
