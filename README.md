@@ -54,7 +54,7 @@
 ### Other Technology   
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://pngimg.com/d/mysql_PNG9.png" alt="MYSQL" height="50" /></a>   
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://pngimg.com/d/mysql_PNG9.png" alt="MYSQL" height="50" /></a>   
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
